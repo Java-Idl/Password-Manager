@@ -1,7 +1,7 @@
 password_manager/
 │
 ├── database/
-│   └── db.py           # Handle database connections (MySQL/Oracle) and operations.
+│   └── db.py           # Handle database connections (sqlite3) and operations.
 │
 ├── models/
 │   ├── user.py         # User model: class for user management (CRUD).
